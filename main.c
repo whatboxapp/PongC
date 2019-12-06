@@ -1,5 +1,6 @@
 #include <ncurses.h>
 #include <sys/time.h>
+#include <time.h>
 #include <stdlib.h>
 
 // The number of milliseconds between ticks to the ball and opponent.
